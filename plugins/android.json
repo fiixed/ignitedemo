@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.siriuscom.ignite"
+        },
+        "plugin.google.maps": {
+            "API_KEY_FOR_ANDROID": "AIzaSyDJg-5u30r6odx1ZF1RUh5Z19cMi0n2mKY",
+            "PACKAGE_NAME": "com.siriuscom.ignite"
+        }
+    },
+    "dependent_plugins": {}
+}
